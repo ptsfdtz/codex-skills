@@ -1,8 +1,7 @@
 ---
 name: test_generator
 description: >
-  Generate maintainable unit and integration tests
-  based on source code and expected behavior.
+  基于源码和预期行为生成可维护的单元与集成测试。
 version: 1.0.0
 author: local
 entry: prompt.md

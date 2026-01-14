@@ -1,8 +1,7 @@
 ---
 name: system_designer
 description: >
-  Design software system architecture, define module boundaries,
-  and recommend technology stacks.
+  设计软件系统架构，定义模块边界，并推荐技术栈。
 version: 1.0.0
 author: local
 entry: prompt.md
